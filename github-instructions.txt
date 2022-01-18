@@ -8,4 +8,4 @@ On first GitHub Repo Setup
 
 On Repo Update
 1. git add .
-2. git commit - m
+2. git commit -m
